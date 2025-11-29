@@ -1,4 +1,5 @@
 jdbc:h2:file:./bd/demobd
+User: sa
 1. INFORMATION_SCHEMA
 2. SA
 3. DEMOBD
