@@ -1,0 +1,1 @@
+{"id":2,"nome":"Manoel Antunes","idade":26,"email":"manoel@email.com","telefones":[{},{}],"enderecos":[{}]}
